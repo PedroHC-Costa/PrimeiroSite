@@ -1,0 +1,22 @@
+.filler {
+    background-color: cor-do-footer;
+    padding: 20px 0;
+    /* Ajuste o preenchimento conforme necessário */
+    display: block;
+    clear: both;
+}
+
+.carousel-caption h5 {
+    font-size: 50px;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+}
+
+.carousel-inner .carousel-item img {
+    width: 700px;
+    height: 600px;
+}
+
+.row img {
+    height: 600px;
+}
